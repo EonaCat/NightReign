@@ -8,6 +8,10 @@ Run the executable. (Note: .NET 8.0 Runtime is required.)
 
 Select the save file to which you want to transfer your Steam ID.
 
+(Select a steam account for the Steam Id extraction)
+
+OR cancel the dialog and:
+
 Enter your Steam ID in the popup window (you need the SteamID64 of your Steam profile).
 Example:
 76561197960272671
